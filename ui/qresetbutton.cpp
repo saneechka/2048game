@@ -1,4 +1,4 @@
-#include "gui/qresetbutton.h"
+#include "ui/qresetbutton.h"
 
 QResetButton::QResetButton( QWidget* parent) : QLabel(parent)
 {

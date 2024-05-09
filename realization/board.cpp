@@ -1,5 +1,5 @@
-#include "core/board.h"
-#include "core/tile.h"
+#include "realization/board.h"
+#include "realization/tile.h"
 
 #include <iostream>
 #include <stdlib.h>     /* srand, rand */

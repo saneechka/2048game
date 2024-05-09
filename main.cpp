@@ -1,13 +1,13 @@
-#include "gui/mainwindow.h"
+#include "ui/mainwindow.h"
 #include <QApplication>
 
 #include <iostream>
 #include <stdlib.h>     /* srand, rand */
 #include <time.h>       /* time */
-#include "core/board.h"
-#include "gui/qgameboard.h"
+#include "realization/board.h"
+#include "ui/qgameboard.h"
 
-#include "gui/qgameoverwindow.h"
+#include "ui/qgameoverwindow.h"
 
 int main(int argc, char *argv[])
 {

@@ -1,0 +1,224 @@
+{
+	"BUILD_DIR" : "/home/sanichka/2048game/build/2048_autogen",
+	"CMAKE_BINARY_DIR" : "/home/sanichka/2048game/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/sanichka/2048game/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/sanichka/2048game",
+	"CMAKE_EXECUTABLE" : "/home/sanichka/.local/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/sanichka/2048game/CMakeLists.txt",
+		"/home/sanichka/2048game/build/CMakeFiles/3.19.6/CMakeSystem.cmake",
+		"/home/sanichka/.local/share/cmake-3.19/Modules/CMakeSystemSpecificInitialize.cmake",
+		"/home/sanichka/2048game/build/CMakeFiles/3.19.6/CMakeCCompiler.cmake",
+		"/home/sanichka/2048game/build/CMakeFiles/3.19.6/CMakeCXXCompiler.cmake",
+		"/home/sanichka/.local/share/cmake-3.19/Modules/CMakeSystemSpecificInformation.cmake",
+		"/home/sanichka/.local/share/cmake-3.19/Modules/CMakeGenericSystem.cmake",
+		"/home/sanichka/.local/share/cmake-3.19/Modules/CMakeInitializeConfigs.cmake",
+		"/home/sanichka/.local/share/cmake-3.19/Modules/Platform/Linux.cmake",
+		"/home/sanichka/.local/share/cmake-3.19/Modules/Platform/UnixPaths.cmake",
+		"/home/sanichka/.local/share/cmake-3.19/Modules/CMakeCInformation.cmake",
+		"/home/sanichka/.local/share/cmake-3.19/Modules/CMakeLanguageInformation.cmake",
+		"/home/sanichka/.local/share/cmake-3.19/Modules/Compiler/Clang-C.cmake",
+		"/home/sanichka/.local/share/cmake-3.19/Modules/Compiler/Clang.cmake",
+		"/home/sanichka/.local/share/cmake-3.19/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/home/sanichka/.local/share/cmake-3.19/Modules/Compiler/GNU.cmake",
+		"/home/sanichka/.local/share/cmake-3.19/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/home/sanichka/.local/share/cmake-3.19/Modules/Platform/Linux-Clang-C.cmake",
+		"/home/sanichka/.local/share/cmake-3.19/Modules/Platform/Linux-GNU-C.cmake",
+		"/home/sanichka/.local/share/cmake-3.19/Modules/Platform/Linux-GNU.cmake",
+		"/home/sanichka/.local/share/cmake-3.19/Modules/CMakeCommonLanguageInclude.cmake",
+		"/home/sanichka/.local/share/cmake-3.19/Modules/CMakeCXXInformation.cmake",
+		"/home/sanichka/.local/share/cmake-3.19/Modules/CMakeLanguageInformation.cmake",
+		"/home/sanichka/.local/share/cmake-3.19/Modules/Compiler/Clang-CXX.cmake",
+		"/home/sanichka/.local/share/cmake-3.19/Modules/Compiler/Clang.cmake",
+		"/home/sanichka/.local/share/cmake-3.19/Modules/Platform/Linux-Clang-CXX.cmake",
+		"/home/sanichka/.local/share/cmake-3.19/Modules/Platform/Linux-GNU-CXX.cmake",
+		"/home/sanichka/.local/share/cmake-3.19/Modules/Platform/Linux-GNU.cmake",
+		"/home/sanichka/.local/share/cmake-3.19/Modules/CMakeCommonLanguageInclude.cmake",
+		"/usr/lib64/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"/usr/lib64/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"/usr/lib64/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/usr/lib64/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/usr/lib64/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"/usr/lib64/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"/usr/lib64/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"/home/sanichka/.local/share/cmake-3.19/Modules/CMakeParseArguments.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QComposePlatformInputContextPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEglFSEmulatorIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEglFSIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEglFSKmsEglDeviceIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEglFSKmsGbmIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEglFSX11IntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEvdevKeyboardPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEvdevMousePlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEvdevTabletPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEvdevTouchScreenPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QGtk3ThemePlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QIbusPlatformInputContextPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QJp2Plugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QLibInputPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QLinuxFbIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QMinimalEglIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QMngPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QPdfPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QTsLibPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QVncIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QWaylandEglPlatformIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QWaylandIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QWaylandXCompositeEglPlatformIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QWaylandXCompositeGlxPlatformIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QXcbEglIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QXcbGlxIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QXcbIntegrationPlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"/usr/lib64/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"/usr/lib64/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"/usr/lib64/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"/home/sanichka/.local/share/cmake-3.19/Modules/CMakeParseArguments.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/sanichka/2048game",
+	"DEP_FILE" : "/home/sanichka/2048game/build/2048_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "2048_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/home/sanichka/2048game/realization/board.h",
+			"MU",
+			"Z3H3YMLZ2D/moc_board.cpp"
+		],
+		[
+			"/home/sanichka/2048game/realization/game.h",
+			"MU",
+			"Z3H3YMLZ2D/moc_game.cpp"
+		],
+		[
+			"/home/sanichka/2048game/realization/observer.h",
+			"MU",
+			"Z3H3YMLZ2D/moc_observer.cpp"
+		],
+		[
+			"/home/sanichka/2048game/realization/subject.h",
+			"MU",
+			"Z3H3YMLZ2D/moc_subject.cpp"
+		],
+		[
+			"/home/sanichka/2048game/realization/tile.h",
+			"MU",
+			"Z3H3YMLZ2D/moc_tile.cpp"
+		],
+		[
+			"/home/sanichka/2048game/ui/mainwindow.h",
+			"MU",
+			"UYX5XTB5RZ/moc_mainwindow.cpp"
+		],
+		[
+			"/home/sanichka/2048game/ui/qgameboard.h",
+			"MU",
+			"UYX5XTB5RZ/moc_qgameboard.cpp"
+		],
+		[
+			"/home/sanichka/2048game/ui/qgameoverwindow.h",
+			"MU",
+			"UYX5XTB5RZ/moc_qgameoverwindow.cpp"
+		],
+		[
+			"/home/sanichka/2048game/ui/qresetbutton.h",
+			"MU",
+			"UYX5XTB5RZ/moc_qresetbutton.cpp"
+		],
+		[
+			"/home/sanichka/2048game/ui/qtile.h",
+			"MU",
+			"UYX5XTB5RZ/moc_qtile.cpp"
+		],
+		[
+			"/home/sanichka/2048game/ui/qwinwindow.h",
+			"MU",
+			"UYX5XTB5RZ/moc_qwinwindow.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/sanichka/2048game/build/2048_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/sanichka/2048game/build/2048_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/sanichka/2048game/build",
+		"/home/sanichka/2048game",
+		"/usr/include/qt",
+		"/usr/include/qt/QtWidgets",
+		"/usr/include/qt/QtGui",
+		"/usr/include/qt/QtCore",
+		"/usr/lib/qt/mkspecs/linux-g++",
+		"/usr/include/c++/13.2.1",
+		"/usr/include/c++/13.2.1/x86_64-pc-linux-gnu",
+		"/usr/include/c++/13.2.1/backward",
+		"/usr/lib/clang/16/include",
+		"/usr/local/include",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/clang++",
+		"-dM",
+		"-E",
+		"-c",
+		"/home/sanichka/.local/share/cmake-3.19/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/sanichka/2048game/build/2048_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "/home/sanichka/2048game/build/CMakeFiles/2048_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/sanichka/2048game/build/CMakeFiles/2048_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/home/sanichka/2048game/main.cpp", "MU" ],
+		[ "/home/sanichka/2048game/realization/board.cpp", "MU" ],
+		[ "/home/sanichka/2048game/realization/game.cpp", "MU" ],
+		[ "/home/sanichka/2048game/realization/observer.cpp", "MU" ],
+		[ "/home/sanichka/2048game/realization/subject.cpp", "MU" ],
+		[ "/home/sanichka/2048game/realization/tile.cpp", "MU" ],
+		[ "/home/sanichka/2048game/ui/mainwindow.cpp", "MU" ],
+		[ "/home/sanichka/2048game/ui/qgameboard.cpp", "MU" ],
+		[ "/home/sanichka/2048game/ui/qgameoverwindow.cpp", "MU" ],
+		[ "/home/sanichka/2048game/ui/qresetbutton.cpp", "MU" ],
+		[ "/home/sanichka/2048game/ui/qtile.cpp", "MU" ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

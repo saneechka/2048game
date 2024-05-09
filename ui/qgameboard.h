@@ -1,7 +1,7 @@
 #ifndef QGAMEBOARD_H
 #define QGAMEBOARD_H
 
-#include "core/observer.h"
+#include "realization/observer.h"
 #include "qgameoverwindow.h"
 
 #include <QVector>

@@ -1,5 +1,5 @@
-#include "core/game.h"
-#include "core/tile.h"
+#include "realization/game.h"
+#include "realization/tile.h"
 
 Game::Game(int dimension)
 {

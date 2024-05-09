@@ -1,9 +1,9 @@
-#include "gui/qgameboard.h"
-#include "core/board.h"
-#include "core/game.h"
-#include "gui/qtile.h"
-#include "core/tile.h"
-#include "gui/qresetbutton.h"
+#include "ui/qgameboard.h"
+#include "realization/board.h"
+#include "realization/game.h"
+#include "ui/qtile.h"
+#include "realization/tile.h"
+#include "ui/qresetbutton.h"
 
 #include <QVBoxLayout>
 #include <QGridLayout>

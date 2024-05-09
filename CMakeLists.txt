@@ -11,30 +11,30 @@ find_package(Qt5Widgets REQUIRED)
 
 set(SOURCES
     main.cpp
-    gui/mainwindow.cpp
-    core/tile.cpp
-    core/board.cpp
-    core/game.cpp
-    gui/qgameboard.cpp
-    gui/qtile.cpp
-    gui/qresetbutton.cpp
-    core/observer.cpp
-    core/subject.cpp
-    gui/qgameoverwindow.cpp
+    ui/mainwindow.cpp
+    realization/tile.cpp
+    realization/board.cpp
+    realization/game.cpp
+    ui/qgameboard.cpp
+    ui/qtile.cpp
+    ui/qresetbutton.cpp
+    realization/observer.cpp
+    realization/subject.cpp
+    ui/qgameoverwindow.cpp
 )
 
 set(HEADERS
-    gui/mainwindow.h
-    core/tile.h
-    core/board.h
-    core/game.h
-    gui/qgameboard.h
-    gui/qtile.h
-    gui/qresetbutton.h
-    core/observer.h
-    core/subject.h
-    gui/qgameoverwindow.h
-    gui/qwinwindow.h
+    ui/mainwindow.h
+    realization/tile.h
+    realization/board.h
+    realization/game.h
+    ui/qgameboard.h
+    ui/qtile.h
+    ui/qresetbutton.h
+    realization/observer.h
+    realization/subject.h
+    ui/qgameoverwindow.h
+    ui/qwinwindow.h
 )
 
 add_executable(${PROJECT_NAME} ${SOURCES} ${HEADERS})

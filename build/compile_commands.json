@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/sanichka/2048game/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I. -I../ -I2048_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/2048.dir/2048_autogen/mocs_compilation.cpp.o -c /home/sanichka/2048game/build/2048_autogen/mocs_compilation.cpp",
+  "file": "/home/sanichka/2048game/build/2048_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/sanichka/2048game/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I. -I../ -I2048_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/2048.dir/main.cpp.o -c /home/sanichka/2048game/main.cpp",
+  "file": "/home/sanichka/2048game/main.cpp"
+},
+{
+  "directory": "/home/sanichka/2048game/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I. -I../ -I2048_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/2048.dir/ui/mainwindow.cpp.o -c /home/sanichka/2048game/ui/mainwindow.cpp",
+  "file": "/home/sanichka/2048game/ui/mainwindow.cpp"
+},
+{
+  "directory": "/home/sanichka/2048game/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I. -I../ -I2048_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/2048.dir/realization/tile.cpp.o -c /home/sanichka/2048game/realization/tile.cpp",
+  "file": "/home/sanichka/2048game/realization/tile.cpp"
+},
+{
+  "directory": "/home/sanichka/2048game/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I. -I../ -I2048_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/2048.dir/realization/board.cpp.o -c /home/sanichka/2048game/realization/board.cpp",
+  "file": "/home/sanichka/2048game/realization/board.cpp"
+},
+{
+  "directory": "/home/sanichka/2048game/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I. -I../ -I2048_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/2048.dir/realization/game.cpp.o -c /home/sanichka/2048game/realization/game.cpp",
+  "file": "/home/sanichka/2048game/realization/game.cpp"
+},
+{
+  "directory": "/home/sanichka/2048game/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I. -I../ -I2048_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/2048.dir/ui/qgameboard.cpp.o -c /home/sanichka/2048game/ui/qgameboard.cpp",
+  "file": "/home/sanichka/2048game/ui/qgameboard.cpp"
+},
+{
+  "directory": "/home/sanichka/2048game/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I. -I../ -I2048_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/2048.dir/ui/qtile.cpp.o -c /home/sanichka/2048game/ui/qtile.cpp",
+  "file": "/home/sanichka/2048game/ui/qtile.cpp"
+},
+{
+  "directory": "/home/sanichka/2048game/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I. -I../ -I2048_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/2048.dir/ui/qresetbutton.cpp.o -c /home/sanichka/2048game/ui/qresetbutton.cpp",
+  "file": "/home/sanichka/2048game/ui/qresetbutton.cpp"
+},
+{
+  "directory": "/home/sanichka/2048game/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I. -I../ -I2048_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/2048.dir/realization/observer.cpp.o -c /home/sanichka/2048game/realization/observer.cpp",
+  "file": "/home/sanichka/2048game/realization/observer.cpp"
+},
+{
+  "directory": "/home/sanichka/2048game/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I. -I../ -I2048_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/2048.dir/realization/subject.cpp.o -c /home/sanichka/2048game/realization/subject.cpp",
+  "file": "/home/sanichka/2048game/realization/subject.cpp"
+},
+{
+  "directory": "/home/sanichka/2048game/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I. -I../ -I2048_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/2048.dir/ui/qgameoverwindow.cpp.o -c /home/sanichka/2048game/ui/qgameoverwindow.cpp",
+  "file": "/home/sanichka/2048game/ui/qgameoverwindow.cpp"
+}
+]

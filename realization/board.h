@@ -1,7 +1,7 @@
 #ifndef BOARD_H
 #define BOARD_H
 
-#include "core/subject.h"
+#include "realization/subject.h"
 
 #include <QVector>
 #include <QString>
