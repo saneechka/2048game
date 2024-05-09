@@ -1,5 +1,0 @@
-/home/sanichka/2048game/build/CMakeFiles/rebuild_cache.dir
-/home/sanichka/2048game/build/CMakeFiles/edit_cache.dir
-/home/sanichka/2048game/build/CMakeFiles/2048.dir
-/home/sanichka/2048game/build/CMakeFiles/2048_autogen_timestamp_deps.dir
-/home/sanichka/2048game/build/CMakeFiles/2048_autogen.dir
